@@ -13,6 +13,7 @@
 <img width="1710" height="1107" alt="Screenshot 2025-09-15 at 7 53 13 AM" src="https://github.com/user-attachments/assets/5fdf2ece-372a-45d4-95be-d3ffaf320361" />
 <img width="1710" height="1107" alt="Screenshot 2025-09-15 at 7 52 39 AM" src="https://github.com/user-attachments/assets/5bf45107-3017-481c-b127-3971c374ba9f" />
 <img width="1710" height="1107" alt="Screenshot 2025-09-15 at 7 51 03 AM" src="https://github.com/user-attachments/assets/63ce6fd1-7527-44c5-a556-1e50de594283" />
+
 # What is happening in the python script?
 
 ```python
